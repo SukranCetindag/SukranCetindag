@@ -9,8 +9,8 @@
 ![MIS](https://img.shields.io/badge/MIS-STUDENT-purple?style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI-Data%20Science-success?style=for-the-badge&logo=python&logoColor=white)
 
-![Üniversite](https://img.shields.io/badge/INSTITUTION-BANDIRMA%20ONYEDI%20EYLÜL%20UNIVERSITY-blue)
-![Location](https://img.shields.io/badge/LOCATION-İSTANBUL,%20TÜRKİYE-4d4d4d?style=flat-square) 
+![Üniversite](https://img.shields.io/badge/INSTITUTION-BANDIRMA%20ONYEDI%20EYLUL%20UNIVERSITY-blue)
+![Location](https://img.shields.io/badge/LOCATION-ISTANBUL,%20TURKIYE-4d4d4d?style=flat-square) 
 ![Focus](https://img.shields.io/badge/FOCUS-DATA%20SCIENCE-004d61?style=flat-square-blue)
 </div>
 
