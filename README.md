@@ -50,11 +50,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Şükran's GitHub stats](https://github-readme-stats.vercel.app/api?username=SukranCetindag&show_icons=true&theme=radical)
-
----
-
 ### 🏆 Certificates
 - 🎓 **MII’25 Dijital Dönüşüm Rotası** | Bilişim Vadisi Teknik Eğitim Programı
 
@@ -69,3 +64,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+---
+
+### 📊 GitHub Stats
+![Şükran's GitHub stats](https://github-readme-stats.vercel.app/api?username=SukranCetindag&show_icons=true&theme=radical)
+
+---
+
+### 🐍 Contributions in the Last Year
+![snake gif](https://raw.githubusercontent.com/SukranCetindag/SukranCetindag/output/github-contribution-grid-snake.svg)
